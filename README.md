@@ -1,7 +1,8 @@
+## Clean-node-api
 O objetivo do treinamento é praticar como criar uma API com uma arquitetura bem definida e desacoplada, utilizando TDD (programação orientada a testes) como metodologia de trabalho, Clean Architecture para fazer a distribuição de responsabilidades em camadas, sempre seguindo os princípios do SOLID e, sempre que possível, aplicando Design Patterns para resolver alguns problemas comuns.
 
 
-> ## Princípios
+> ### Princípios
 
 * Single Responsibility
 * Open Closed
@@ -15,7 +16,7 @@ O objetivo do treinamento é praticar como criar uma API com uma arquitetura bem
 * Composition Over Inheritance
 * Small Commits
 
-> ## Design Patterns
+> ### Design Patterns
 
 * Factory
 * Adapter
@@ -31,7 +32,7 @@ O objetivo do treinamento é praticar como criar uma API com uma arquitetura bem
 * Chain of Responsibility
 * Proxy
 
-> ## Code Smells (Anti-Patterns)
+> ### Code Smells (Anti-Patterns)
 
 * Blank Lines
 * Comments
@@ -49,7 +50,7 @@ O objetivo do treinamento é praticar como criar uma API com uma arquitetura bem
 * Shotgun Surgery
 * Speculative Generality
 
-> ## Metodologias e Designs
+> ### Metodologias e Designs
 
 * TDD
 * Clean Architecture
@@ -61,7 +62,7 @@ O objetivo do treinamento é praticar como criar uma API com uma arquitetura bem
 * Use Cases
 * Spike (Agile)
 
-> ## Bibliotecas e Ferramentas
+> ### Bibliotecas e Ferramentas
 
 * NPM
 * Typescript
@@ -92,7 +93,7 @@ O objetivo do treinamento é praticar como criar uma API com uma arquitetura bem
 * DotEnv
 * Ts-Node-Dev
 
-> ## Features do Typescript
+> ### Features do Typescript
 
 * POO Avançado
 * Strict Mode
@@ -104,7 +105,7 @@ O objetivo do treinamento é praticar como criar uma API com uma arquitetura bem
 * Configurações
 * Build
 
-> ## Features de Testes
+> ### Features de Testes
 
 * Testes Unitários
 * Testes de Integração
